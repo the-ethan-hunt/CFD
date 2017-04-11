@@ -1,4 +1,5 @@
 # coding: utf-8
+#Program to plot 1-dimensional linear convection equation
 import numpy
 import matplotlib.pyplot as plt
 import time,sys
